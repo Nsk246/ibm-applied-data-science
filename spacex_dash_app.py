@@ -1,3 +1,4 @@
+# Nandhu S Kumar - Oct 2024
 # Import required libraries
 import pandas as pd
 import dash
@@ -83,3 +84,5 @@ def get_scatter_chart(entered_site,Payload_Mass):
 # Run the app
 if __name__ == '__main__':
     app.run_server()
+# Thank You  
+  
